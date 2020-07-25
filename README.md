@@ -48,3 +48,7 @@ Myfavourite:
     </tr><tr></tr>
   </tbody>
 </table>
+
+--- 
+
+![](https://github.com/giapdong/giapdong/svg/japan.svg)
