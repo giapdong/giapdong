@@ -17,17 +17,17 @@
     <tr>
       <td align="center" valign="middle">
         <a href="https://unity.com/" target="_blank">
-          <img width="222px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg">
+          <img width="222px" src="https://github.com/giapdong/giapdong/raw/master/svg/icon8-unity.svg">
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://vuejs.org/" target="_blank">
-          <img width="222px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg">
+          <img width="222px" src="https://github.com/giapdong/giapdong/raw/master/svg/icon8-vue-js.svg">
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://nodejs.org/en/" target="_blank">
-          <img width="222px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg">
+          <img width="222px" src="https://github.com/giapdong/giapdong/raw/master/svg/icon8-nodejs.svg">
         </a>
       </td>
       <td align="center" valign="middle">
