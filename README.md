@@ -39,6 +39,13 @@
         </a>
       </td>
     </tr><tr></tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+          <img width="222px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaftereffects.svg">
+        </a>
+      </td>
+    </tr><tr></tr>
   </tbody>
 </table>
 
