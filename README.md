@@ -51,4 +51,7 @@ Myfavourite:
 
 --- 
 
-![](https://github.com/giapdong/giapdong/svg/japan.svg)
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/giapdong/giapdong/raw/master/svg/japan.svg "Logo japan"
