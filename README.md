@@ -67,8 +67,8 @@
 [vue-loader-status]: https://img.shields.io/npm/v/vue-loader.svg
 [vue-server-renderer-status]: https://img.shields.io/npm/v/vue-server-renderer.svg
 [vue-class-component-status]: https://img.shields.io/npm/v/vue-class-component.svg
-[vue-rx-status]: https://img.shields.io/npm/v/vue-rx.svg
-[vue-devtools-status]: https://img.shields.io/chrome-web-store/v/nhdogjmejiglipccpnnnanhbledajbpd.svg
+[vue-rx-status]: https://github.com/giapdong/giapdong/raw/master/images/Cover.png
+[vue-devtools-status]: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg
 
 [vue-router-package]: https://npmjs.com/package/vue-router
 [vuex-package]: https://npmjs.com/package/vuex
