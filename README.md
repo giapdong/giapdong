@@ -43,7 +43,7 @@
 
 | Skill | Description |
 |--------|-------------|
-| [![vue-router-status]][vue-router-package] | Single-page application routing |
+| ![](svg/icons8-unity.svg) | Single-page application routing |
 | [![vuex-status]][vuex-package] | Large-scale state management |
 | [![vue-cli-status]][vue-cli-package] | Project scaffolding |
 | [![vue-loader-status]][vue-loader-package] | Single File Component (`*.vue` file) loader for webpack |
@@ -51,20 +51,8 @@
 | [![vue-class-component-status]][vue-class-component-package] | TypeScript decorator for a class-based API |
 | [[vue-devtools-status]][vue-devtools-package] | Browser DevTools extension |
 
-[vue-router-status]: https://img.shields.io/npm/v/vue-router.svg
+[skill-unity]: svg/icons8-unity.svg
 [vuex-status]: https://img.shields.io/npm/v/vuex.svg
-[vue-cli-status]: https://img.shields.io/npm/v/@vue/cli.svg
-[vue-loader-status]: https://img.shields.io/npm/v/vue-loader.svg
-[vue-server-renderer-status]: https://img.shields.io/npm/v/vue-server-renderer.svg
-[vue-class-component-status]: https://img.shields.io/npm/v/vue-class-component.svg
-[vue-rx-status]: https://github.com/giapdong/giapdong/raw/master/images/Cover.png
-[vue-devtools-status]: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg
 
 [vue-router-package]: https://npmjs.com/package/vue-router
 [vuex-package]: https://npmjs.com/package/vuex
-[vue-cli-package]: https://npmjs.com/package/@vue/cli
-[vue-loader-package]: https://npmjs.com/package/vue-loader
-[vue-server-renderer-package]: https://npmjs.com/package/vue-server-renderer
-[vue-class-component-package]: https://npmjs.com/package/vue-class-component
-[vue-rx-package]: https://npmjs.com/package/vue-rx
-[vue-devtools-package]: https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd
