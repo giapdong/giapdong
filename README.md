@@ -1,7 +1,7 @@
 <h1 align="center">Giáp Văn Đông</h1>
 <h3 align="center">Fullstack web developer from HUST</h3>
 
-![](https://github.com/giapdong/giapdong/raw/master/images/Cover.png)
+![](images/Cover.png)
 
 <p align="center">
   <a href="https://www.facebook.com/GiapDong.WEE" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="df" height="20" width="20" /></a>
