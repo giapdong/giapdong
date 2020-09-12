@@ -17,17 +17,17 @@
     <tr>
       <td align="center" valign="middle">
         <a href="https://unity.com/" target="_blank">
-          <img width="222px" src="https://github.com/giapdong/giapdong/raw/master/svg/icons8-unity.svg">
+          <img width="222px" src="svg/icons8-unity.svg">
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://vuejs.org/" target="_blank">
-          <img width="222px" src="https://github.com/giapdong/giapdong/raw/master/svg/icons8-vue-js.svg">
+          <img width="222px" src="svg/icons8-vue-js.svg">
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://nodejs.org/en/" target="_blank">
-          <img width="222px" src="https://github.com/giapdong/giapdong/raw/master/svg/icons8-nodejs.svg">
+          <img width="222px" src="svg/icons8-nodejs.svg">
         </a>
       </td>
       <td align="center" valign="middle">
@@ -49,7 +49,7 @@
 | [![vue-loader-status]][vue-loader-package] | Single File Component (`*.vue` file) loader for webpack |
 | [![vue-server-renderer-status]][vue-server-renderer-package] | Server-side rendering support |
 | [![vue-class-component-status]][vue-class-component-package] | TypeScript decorator for a class-based API |
-| [![vue-devtools-status]][vue-devtools-package] | Browser DevTools extension |
+| [[vue-devtools-status]][vue-devtools-package] | Browser DevTools extension |
 
 [vue-router-status]: https://img.shields.io/npm/v/vue-router.svg
 [vuex-status]: https://img.shields.io/npm/v/vuex.svg
