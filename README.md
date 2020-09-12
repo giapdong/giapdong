@@ -43,13 +43,8 @@
 
 | Skill | Description |
 |--------|-------------|
-| ![](svg/icons8-unity.svg) | Single-page application routing |
+| ![](svg/icons8-unity.svg) | <h3 align="center">My Skills</h3> |
 | [![vuex-status]][vuex-package] | Large-scale state management |
-| [![vue-cli-status]][vue-cli-package] | Project scaffolding |
-| [![vue-loader-status]][vue-loader-package] | Single File Component (`*.vue` file) loader for webpack |
-| [![vue-server-renderer-status]][vue-server-renderer-package] | Server-side rendering support |
-| [![vue-class-component-status]][vue-class-component-package] | TypeScript decorator for a class-based API |
-| [[vue-devtools-status]][vue-devtools-package] | Browser DevTools extension |
 
 [skill-unity]: svg/icons8-unity.svg
 [vuex-status]: https://img.shields.io/npm/v/vuex.svg
