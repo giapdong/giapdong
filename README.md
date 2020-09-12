@@ -43,7 +43,7 @@
 
 | Skill | Description |
 |--------|-------------|
-| ![](svg/icons8-unity.svg) | [unity-description] |
+| ![](https://img.shields.io/npm/v/disk-management.svg) | <table> <tbody> <tr> <td align="center" valign="middle"> <a href="https://unity.com/" target="_blank"> <img width="222px" src="https://img.shields.io/npm/v/disk-management.svg"> </a> </td><td align="center" valign="middle"> <a href="https://vuejs.org/" target="_blank"> <img width="222px" src="https://img.shields.io/npm/v/disk-management.svg"> </a> </td><td align="center" valign="middle"> <a href="https://nodejs.org/en/" target="_blank"> <img width="222px" src="https://img.shields.io/npm/v/disk-management.svg"> </a> </td><td align="center" valign="middle"> <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img width="222px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg"> </a> </td></tr></tbody></table>|
 | [![disk-management-status]][disk-management-package] | Simple module/application management your disk |
 
 [skill-unity]: svg/icons8-unity.svg
