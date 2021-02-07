@@ -10,7 +10,6 @@
   <a title="@giapdong.svbk62@gmail.com" href="mailto: giapdong.svbk62@gmail.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mailto: giapdong.svbk62@gmail.com" height="20" width="20" />
   </a>
-  <a title="0354371714" href="#0354371714" target="_blank">:telephone_receiver:</a>
 </p>
 
 # My Skills
