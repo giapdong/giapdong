@@ -1,50 +1,41 @@
-<p align="center"><img src="images/Cover.png" width="100%" /></p>
+<!-- Reference: https://dev.to/kritikapattalam/create-a-github-profile-readme-md-with-widgets-47j7 -->
 
-<p align="center">
+# Hi there. I am Dong 👋
+
+<p>
   <a title="@GiapDong.WEE" href="https://www.facebook.com/GiapDong.WEE" target="_blank ">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/GiapDong.WEE" height="20" width="20" />
-  </a>
-  <a title="@devpstudio" href="https://www.youtube.com/devpstudio" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/devpstudio" height="20" width="20" />
+     <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
   <a title="@giapdong.svbk62@gmail.com" href="mailto: giapdong.svbk62@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mailto: giapdong.svbk62@gmail.com" height="20" width="20" />
+    <img alt="Mail" src="https://img.shields.io/badge/-Gmail-F14236?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a title="@devpstudio" href="https://www.youtube.com/devpstudio" target="_blank">
+    <img style="margin-bottom: 40px;" align="center" src="https://img.shields.io/youtube/channel/subscribers/UCZTjEvCmGtCE42sRG2jJqSg?style=social"  />
   </a>
 </p>
 
-# My Skills
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://unity.com/" target="_blank">
-          <img width="222px" src="https://github.com/giapdong/giapdong/raw/master/svg/icons8-unity.svg">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://vuejs.org/" target="_blank">
-          <img width="222px" src="https://github.com/giapdong/giapdong/raw/master/svg/icons8-vue-js.svg">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://nodejs.org/en/" target="_blank">
-          <img width="222px" src="https://github.com/giapdong/giapdong/raw/master/svg/icons8-nodejs.svg">
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-          <img width="222px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+```javascript
+export default [
+  full_name: "Giap Van Dong",
+  pronouns: "he | his",
+  code: "JavaScript | Python",
+  country: "Viet Nam"
+]
+```
 
-| Skill | Description |
-|--------|-------------|
-| ![](svg/icons8-vue-js.svg) | <span align="center" valign="middle"> :star: :star: :star: :star: <p align="left">Start at 2019-06-10 12:12:12</p><p align="left">Join to many project with Vue2.x, VueRouter, VueX, Nuxtjs</p></span> |
-| ![](svg/icons8-nodejs.svg) | <span align="center" valign="middle"> :star: :star: :star: <p align="left">Start at 2019-06-10 12:12:12</p><p align="left">RESTfulAPI with express, jwt</p></span> |
-| ![](svg/icons8-unity.svg) | <span align="center" valign="middle"> :star: :star: :star: <p align="left">Start at 2018-10-10 12:12:12</p><p align="left">Develop for relax game 2D, 3D, animation character</p></span>|
+# Tech Stack
+<p>
+  <img alt="Vuejs" src="https://img.shields.io/badge/-Vue.js-3FB984?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  
+  <img alt="Scss" src="https://img.shields.io/badge/-Scss-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Less" src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=less&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-EFD81C?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+</p>
 
 # My project
 
@@ -55,3 +46,7 @@
 [disk-management]: https://github.com/giapdong/disk-management
 [disk-management-status]: https://img.shields.io/npm/v/disk-management.svg
 [disk-management-package]: https://npmjs.com/package/disk-management
+
+# Top Languages
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=giapdong&layout=compact)
