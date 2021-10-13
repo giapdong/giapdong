@@ -9,17 +9,20 @@
   <a title="@giapdong.svbk62@gmail.com" href="mailto: giapdong.svbk62@gmail.com" target="_blank">
     <img alt="Mail" src="https://img.shields.io/badge/-Gmail-F14236?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p>
   <a title="@devpstudio" href="https://www.youtube.com/devpstudio" target="_blank">
-    <img style="margin-bottom: 40px;" align="center" src="https://img.shields.io/youtube/channel/subscribers/UCZTjEvCmGtCE42sRG2jJqSg?style=social"  />
+    <img style="margin-bottom: 40px;" src="https://img.shields.io/youtube/channel/subscribers/UCZTjEvCmGtCE42sRG2jJqSg?style=social"  />
   </a>
 </p>
 
 ```javascript
 export default [
-  full_name: "Giap Van Dong",
-  pronouns: "he | his",
-  code: "JavaScript | Python",
-  country: "Viet Nam"
+  full_name: 'Giap Van Dong',
+  pronouns: 'he | his',
+  code: 'JavaScript',
+  country: 'Viet Nam'
 ]
 ```
 
@@ -35,6 +38,9 @@ export default [
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-EFD81C?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Unity" src="https://img.shields.io/badge/-Unity-555555?style=flat-square&logo=unity" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
 </p>
 
 # My project
